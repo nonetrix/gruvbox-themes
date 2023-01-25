@@ -1,0 +1,20 @@
+:root {
+    --whoogle-dark-logo: #ebdbb2;
+    --whoogle-dark-page-bg: #282828;
+    --whoogle-dark-element-bg: #3e3c37;
+    --whoogle-dark-text: #dddddd;
+    --whoogle-dark-contrast-text: #dddddd;
+    --whoogle-dark-secondary-text: #dddddd;
+    --whoogle-dark-result-bg: #3e3c37;
+    --whoogle-dark-result-title: #d5c8a5;
+    --whoogle-dark-result-url: #679e6c;
+    --whoogle-dark-result-visited: #679e6c;
+}
+
+span.header-tab-span {
+  border-bottom: 2px solid #679e6c;
+}
+
+.desktop-header a, .desktop-header span {
+  color: #696353;
+}
